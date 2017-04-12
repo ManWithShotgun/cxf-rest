@@ -1,0 +1,7 @@
+
+Service - http://localhost:9999/cxf-rest/cxf
+          http://localhost:9999/cxf-rest/cxf/documents/{id}
+
+Test error 501 - http://localhost:9999/cxf-rest/cxf/documents/0/chapters
+
+/* Controller - http://localhost:9999/cxf-rest/ */
